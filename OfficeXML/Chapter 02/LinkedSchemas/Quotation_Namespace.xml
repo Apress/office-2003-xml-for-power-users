@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Quotation xmlns="http://www.prosetech.com/Schemas/Quotation"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation = "http://www.prosetech.com/Schemas/Quotation Quotation_Namespace.xsd"
+>One thing is for certain: if you don't change the path you're on, you will end up where you are headed.</Quotation>

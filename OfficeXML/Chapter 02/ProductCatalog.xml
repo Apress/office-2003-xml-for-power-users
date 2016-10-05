@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<productCatalog>
+    <catalogName>Acme Fall 2003 Catalog</catalogName>
+    <expiryDate>2004-01-01</expiryDate>
+
+    <products>
+        <product id="1001">
+            <productName>Magic Ring</productName>
+            <productPrice>342.10</productPrice>
+            <inStock>true</inStock>
+        </product>
+        <product id="1002">
+            <productName>Flying Carpet</productName>
+            <productPrice>982.99</productPrice>
+            <inStock>true</inStock>
+        </product>
+    </products>
+</productCatalog>

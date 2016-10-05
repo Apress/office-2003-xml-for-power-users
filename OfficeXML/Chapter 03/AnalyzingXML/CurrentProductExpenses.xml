@@ -1,0 +1,479 @@
+<?xml version="1.0" standalone="yes"?>
+<Products>
+  <Product>
+    <ProductID>2</ProductID>
+    <ProductName>Chang</ProductName>
+    <UnitPrice>19</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <UnitsOnOrder>40</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>3</ProductID>
+    <ProductName>Aniseed Syrup</ProductName>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>13</UnitsInStock>
+    <UnitsOnOrder>70</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>4</ProductID>
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <UnitPrice>22</UnitPrice>
+    <UnitsInStock>53</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>6</ProductID>
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <UnitPrice>25</UnitPrice>
+    <UnitsInStock>120</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>7</ProductID>
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <UnitPrice>30</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>8</ProductID>
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <UnitPrice>40</UnitPrice>
+    <UnitsInStock>6</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>10</ProductID>
+    <ProductName>Ikura</ProductName>
+    <UnitPrice>31</UnitPrice>
+    <UnitsInStock>31</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>11</ProductID>
+    <ProductName>Queso Cabrales</ProductName>
+    <UnitPrice>21</UnitPrice>
+    <UnitsInStock>22</UnitsInStock>
+    <UnitsOnOrder>30</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>12</ProductID>
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <UnitPrice>38</UnitPrice>
+    <UnitsInStock>86</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>13</ProductID>
+    <ProductName>Konbu</ProductName>
+    <UnitPrice>6</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>14</ProductID>
+    <ProductName>Tofu</ProductName>
+    <UnitPrice>23.25</UnitPrice>
+    <UnitsInStock>35</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>15</ProductID>
+    <ProductName>Genen Shouyu</ProductName>
+    <UnitPrice>15.5</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>16</ProductID>
+    <ProductName>Pavlova</ProductName>
+    <UnitPrice>17.45</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>18</ProductID>
+    <ProductName>Carnarvon Tigers</ProductName>
+    <UnitPrice>62.5</UnitPrice>
+    <UnitsInStock>42</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>19</ProductID>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <UnitPrice>9.2</UnitPrice>
+    <UnitsInStock>25</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>20</ProductID>
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <UnitPrice>81</UnitPrice>
+    <UnitsInStock>40</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>21</ProductID>
+    <ProductName>Sir Rodney's Scones</ProductName>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>3</UnitsInStock>
+    <UnitsOnOrder>40</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>22</ProductID>
+    <ProductName>Gustaf's Knäckebröd</ProductName>
+    <UnitPrice>21</UnitPrice>
+    <UnitsInStock>104</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>23</ProductID>
+    <ProductName>Tunnbröd</ProductName>
+    <UnitPrice>9</UnitPrice>
+    <UnitsInStock>61</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>25</ProductID>
+    <ProductName>NuNuCa Nuß-Nougat-Creme</ProductName>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>76</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>26</ProductID>
+    <ProductName>Gumbär Gummibärchen</ProductName>
+    <UnitPrice>31.23</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>27</ProductID>
+    <ProductName>Schoggi Schokolade</ProductName>
+    <UnitPrice>43.9</UnitPrice>
+    <UnitsInStock>49</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>30</ProductID>
+    <ProductName>Nord-Ost Matjeshering</ProductName>
+    <UnitPrice>25.89</UnitPrice>
+    <UnitsInStock>10</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>31</ProductID>
+    <ProductName>Gorgonzola Telino</ProductName>
+    <UnitPrice>12.5</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>70</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>32</ProductID>
+    <ProductName>Mascarpone Fabioli</ProductName>
+    <UnitPrice>32</UnitPrice>
+    <UnitsInStock>9</UnitsInStock>
+    <UnitsOnOrder>40</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>33</ProductID>
+    <ProductName>Geitost</ProductName>
+    <UnitPrice>2.5</UnitPrice>
+    <UnitsInStock>112</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>34</ProductID>
+    <ProductName>Sasquatch Ale</ProductName>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>111</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>35</ProductID>
+    <ProductName>Steeleye Stout</ProductName>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>36</ProductID>
+    <ProductName>Inlagd Sill</ProductName>
+    <UnitPrice>19</UnitPrice>
+    <UnitsInStock>112</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>37</ProductID>
+    <ProductName>Gravad lax</ProductName>
+    <UnitPrice>26</UnitPrice>
+    <UnitsInStock>11</UnitsInStock>
+    <UnitsOnOrder>50</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>38</ProductID>
+    <ProductName>Côte de Blaye</ProductName>
+    <UnitPrice>263.5</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>39</ProductID>
+    <ProductName>Chartreuse verte</ProductName>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>69</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>40</ProductID>
+    <ProductName>Boston Crab Meat</ProductName>
+    <UnitPrice>18.4</UnitPrice>
+    <UnitsInStock>123</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>41</ProductID>
+    <ProductName>Jack's New England Clam Chowder</ProductName>
+    <UnitPrice>9.65</UnitPrice>
+    <UnitsInStock>85</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>43</ProductID>
+    <ProductName>Ipoh Coffee</ProductName>
+    <UnitPrice>46</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <UnitsOnOrder>10</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>44</ProductID>
+    <ProductName>Gula Malacca</ProductName>
+    <UnitPrice>19.45</UnitPrice>
+    <UnitsInStock>27</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>45</ProductID>
+    <ProductName>Rogede sild</ProductName>
+    <UnitPrice>9.5</UnitPrice>
+    <UnitsInStock>5</UnitsInStock>
+    <UnitsOnOrder>70</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>46</ProductID>
+    <ProductName>Spegesild</ProductName>
+    <UnitPrice>12</UnitPrice>
+    <UnitsInStock>95</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>47</ProductID>
+    <ProductName>Zaanse koeken</ProductName>
+    <UnitPrice>9.5</UnitPrice>
+    <UnitsInStock>36</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>48</ProductID>
+    <ProductName>Chocolade</ProductName>
+    <UnitPrice>12.75</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>70</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>49</ProductID>
+    <ProductName>Maxilaku</ProductName>
+    <UnitPrice>20</UnitPrice>
+    <UnitsInStock>10</UnitsInStock>
+    <UnitsOnOrder>60</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>50</ProductID>
+    <ProductName>Valkoinen suklaa</ProductName>
+    <UnitPrice>16.25</UnitPrice>
+    <UnitsInStock>65</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>51</ProductID>
+    <ProductName>Manjimup Dried Apples</ProductName>
+    <UnitPrice>53</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>52</ProductID>
+    <ProductName>Filo Mix</ProductName>
+    <UnitPrice>7</UnitPrice>
+    <UnitsInStock>38</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>54</ProductID>
+    <ProductName>Tourtière</ProductName>
+    <UnitPrice>7.45</UnitPrice>
+    <UnitsInStock>21</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>55</ProductID>
+    <ProductName>Pâté chinois</ProductName>
+    <UnitPrice>24</UnitPrice>
+    <UnitsInStock>115</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>56</ProductID>
+    <ProductName>Gnocchi di nonna Alice</ProductName>
+    <UnitPrice>38</UnitPrice>
+    <UnitsInStock>21</UnitsInStock>
+    <UnitsOnOrder>10</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>57</ProductID>
+    <ProductName>Ravioli Angelo</ProductName>
+    <UnitPrice>19.5</UnitPrice>
+    <UnitsInStock>36</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>58</ProductID>
+    <ProductName>Escargots de Bourgogne</ProductName>
+    <UnitPrice>13.25</UnitPrice>
+    <UnitsInStock>62</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>59</ProductID>
+    <ProductName>Raclette Courdavault</ProductName>
+    <UnitPrice>55</UnitPrice>
+    <UnitsInStock>79</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>60</ProductID>
+    <ProductName>Camembert Pierrot</ProductName>
+    <UnitPrice>34</UnitPrice>
+    <UnitsInStock>19</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>61</ProductID>
+    <ProductName>Sirop d'érable</ProductName>
+    <UnitPrice>28.5</UnitPrice>
+    <UnitsInStock>113</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>62</ProductID>
+    <ProductName>Tarte au sucre</ProductName>
+    <UnitPrice>49.3</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>63</ProductID>
+    <ProductName>Vegie-spread</ProductName>
+    <UnitPrice>43.9</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>64</ProductID>
+    <ProductName>Wimmers gute Semmelknödel</ProductName>
+    <UnitPrice>33.25</UnitPrice>
+    <UnitsInStock>22</UnitsInStock>
+    <UnitsOnOrder>80</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>65</ProductID>
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <UnitPrice>21.05</UnitPrice>
+    <UnitsInStock>76</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>66</ProductID>
+    <ProductName>Louisiana Hot Spiced Okra</ProductName>
+    <UnitPrice>17</UnitPrice>
+    <UnitsInStock>4</UnitsInStock>
+    <UnitsOnOrder>100</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>67</ProductID>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>52</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>68</ProductID>
+    <ProductName>Scottish Longbreads</ProductName>
+    <UnitPrice>12.5</UnitPrice>
+    <UnitsInStock>6</UnitsInStock>
+    <UnitsOnOrder>10</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>69</ProductID>
+    <ProductName>Gudbrandsdalsost</ProductName>
+    <UnitPrice>36</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>70</ProductID>
+    <ProductName>Outback Lager</ProductName>
+    <UnitPrice>15</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>10</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>71</ProductID>
+    <ProductName>Flotemysost</ProductName>
+    <UnitPrice>21.5</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>72</ProductID>
+    <ProductName>Mozzarella di Giovanni</ProductName>
+    <UnitPrice>34.8</UnitPrice>
+    <UnitsInStock>14</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>73</ProductID>
+    <ProductName>Röd Kaviar</ProductName>
+    <UnitPrice>15</UnitPrice>
+    <UnitsInStock>101</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>74</ProductID>
+    <ProductName>Longlife Tofu</ProductName>
+    <UnitPrice>10</UnitPrice>
+    <UnitsInStock>4</UnitsInStock>
+    <UnitsOnOrder>20</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>75</ProductID>
+    <ProductName>Rhönbräu Klosterbier</ProductName>
+    <UnitPrice>7.75</UnitPrice>
+    <UnitsInStock>125</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>76</ProductID>
+    <ProductName>Lakkalikööri</ProductName>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>57</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>77</ProductID>
+    <ProductName>Original Frankfurter grüne Soße</ProductName>
+    <UnitPrice>13</UnitPrice>
+    <UnitsInStock>32</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+</Products>

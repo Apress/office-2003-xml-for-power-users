@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<Products>
+  <Product>
+    <ProductID>1</ProductID>
+    <ProductName>Chai</ProductName>
+    <UnitPrice>18</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>5</ProductID>
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <UnitPrice>21.35</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>9</ProductID>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <UnitPrice>97</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>17</ProductID>
+    <ProductName>Alice Mutton</ProductName>
+    <UnitPrice>39</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>24</ProductID>
+    <ProductName>Guaraná Fantástica</ProductName>
+    <UnitPrice>4.5</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>28</ProductID>
+    <ProductName>Rössle Sauerkraut</ProductName>
+    <UnitPrice>45.6</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>29</ProductID>
+    <ProductName>Thüringer Rostbratwurst</ProductName>
+    <UnitPrice>123.79</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>42</ProductID>
+    <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+    <UnitPrice>14</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+  <Product>
+    <ProductID>53</ProductID>
+    <ProductName>Perth Pasties</ProductName>
+    <UnitPrice>32.8</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+  </Product>
+</Products>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+xmlns:ord="http://mycompany/OrderML"  
+targetNamespace="http://mycompany/OrderML" 
+elementFormDefault="qualified">
+
+   <xsd:element name="order">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:any />
+            <xsd:element name="orderItem" type="xsd:string" minOccurs="1" maxOccurs="unbounded" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+
+</xsd:schema>

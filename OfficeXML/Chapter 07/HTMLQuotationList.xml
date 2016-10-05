@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="HTMLQuotationList.xslt"?>
+
+<quotationList>
+    <quotation>
+        <text>One thing is for certain: if you don't change the path you're on, you will end up where you are headed.</text>
+        <source>Chinese Proverb</source>
+        <category>Ancient Wisdom</category>
+    </quotation>
+    <quotation>
+        <text>Always forgive your enemies; nothing else annoys them so much.</text>
+        <source>Oscar Wilde</source>
+        <category>Literary</category>
+    </quotation>
+    <quotation>
+        <text>Justice will only exist where those not effected by injustice are filled with the same amount of indignation as those offended.</text>
+        <source>Plato</source>
+        <category>Ancient Wisdom</category>
+    </quotation>
+</quotationList>

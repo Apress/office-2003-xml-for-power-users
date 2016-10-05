@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xsd:schema id="Products" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Products">
+    <xsd:complexType>
+      <xsd:choice maxOccurs="unbounded">
+        <xsd:element name="Product">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="ProductID" type="xsd:int" />
+              <xsd:element name="ModelName" type="xsd:string" />
+              <xsd:element name="ModelNumber" type="xsd:string" />
+              <xsd:element name="UnitCost" type="xsd:decimal" />
+              <xsd:element name="CategoryName" type="xsd:string" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:choice>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Meta>
+		<Name>Conference Expense Report</Name>
+		<Email>me@somewhere.com</Email>
+		<IDNumber>2004-01-01-00001</IDNumber>
+		<Purpose>Demonstrate new products at Security Conference</Purpose>
+	</Meta>
+	<ExpenseItem>
+		<Date>2004-01-01</Date>
+		<Description>Flight</Description>
+		<Miles/>
+		<Rate>0</Rate>
+		<AirFare>578</AirFare>
+		<Other/>
+		<Meals/>
+		<Conference/>
+		<Misc/>
+		<MiscCode/>
+		<Total>578</Total>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2004-01-01</Date>
+		<Description>Cab to Hotel</Description>
+		<Miles/>
+		<Rate>0</Rate>
+		<AirFare/>
+		<Other>34</Other>
+		<Meals/>
+		<Conference/>
+		<Misc/>
+		<MiscCode/>
+		<Total>34</Total>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2004-01-01</Date>
+		<Description>Dinner</Description>
+		<Miles/>
+		<Rate>0</Rate>
+		<AirFare/>
+		<Other/>
+		<Meals>48.75</Meals>
+		<Conference/>
+		<Misc/>
+		<MiscCode/>
+		<Total>48.75</Total>
+	</ExpenseItem>
+	<ExpenseItem>
+		<Date>2004-01-01</Date>
+		<Description>Cab to Airport</Description>
+		<Miles/>
+		<Rate>0</Rate>
+		<AirFare/>
+		<Other>34</Other>
+		<Meals/>
+		<Conference/>
+		<Misc/>
+		<MiscCode/>
+		<Total>34</Total>
+	</ExpenseItem>
+</Root>

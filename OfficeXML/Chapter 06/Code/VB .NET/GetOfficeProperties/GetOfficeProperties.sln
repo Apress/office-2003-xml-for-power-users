@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GetOfficeProperties", "GetOfficeProperties.vbproj", "{E5D24235-CAB5-4724-9961-6D265A7064FA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E5D24235-CAB5-4724-9961-6D265A7064FA}.Debug.ActiveCfg = Debug|.NET
+		{E5D24235-CAB5-4724-9961-6D265A7064FA}.Debug.Build.0 = Debug|.NET
+		{E5D24235-CAB5-4724-9961-6D265A7064FA}.Release.ActiveCfg = Release|.NET
+		{E5D24235-CAB5-4724-9961-6D265A7064FA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

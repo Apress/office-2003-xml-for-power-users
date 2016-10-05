@@ -1,0 +1,33 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+		xmlns="urn:schemas-microsoft-com.office.demos.memo"
+		targetNamespace="urn:schemas-microsoft-com.office.demos.memo"
+		elementFormDefault="qualified">
+
+	<xsd:element name="memo" type="memoType"/>
+
+	<xsd:complexType name="memoType" mixed="true">
+ 		<xsd:all>
+  			<xsd:element name="to" type="xsd:string"/>
+			<xsd:element name="from" type="xsd:string"/>
+  			<xsd:element name="subject" type="subjectType"/>
+			<xsd:element name="priority" type="priorityType"/>
+  			<xsd:element name="date" type="xsd:string"/>
+  			<xsd:element name="body" type="xsd:string"/>
+		</xsd:all>
+	</xsd:complexType>
+
+	<xsd:simpleType name="priorityType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Low"/>
+			<xsd:enumeration value="Medium"/>
+			<xsd:enumeration value="High"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="subjectType">
+		<xsd:restriction base="xsd:string">
+			<xsd:maxLength value="40"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

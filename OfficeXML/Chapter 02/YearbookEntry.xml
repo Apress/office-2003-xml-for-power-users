@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<student>
+    <firstName>Lucy</firstName>
+    <lastName>Timpani</lastName>
+    <favoriteQuotation>
+        <text>Great people talk about ideas, average people talk about things, and small people talk about wine.</text>
+        <source>Fran Lebowitz</source>
+        <category>Contemporary</category>
+    </favoriteQuotation>
+    <favoriteFood>Donuts</favoriteFood>
+    <lastWords>
+        <text>Democracy is not something you believe in or a place to hang your hat, but it's something you do. You participate. If you stop doing it, democracy crumbles.</text>
+        <source>Abbie Hoffman</source>
+        <category>Politics</category>
+    </lastWords>
+</student>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+xmlns:ql="http://www.prosetech.com/Schemas/QuotationList" 
+targetNamespace="http://www.prosetech.com/Schemas/QuotationList" 
+elementFormDefault="qualified">
+
+   <xsd:complexType name="quotation">
+      <xsd:sequence>
+         <xsd:element name="text" type="xsd:string"/>
+         <xsd:element name="source" type="xsd:string"/>
+         <xsd:element name="category" type="xsd:string"/>
+      </xsd:sequence>
+   </xsd:complexType>
+
+   <xsd:element name="quotationList">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="quotation" type="ql:quotation" minOccurs="1" maxOccurs="10" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+
+</xsd:schema>

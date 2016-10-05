@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+xmlns:ord="http://mycompany/ClientML"  
+targetNamespace="http://mycompany/ClientML" 
+elementFormDefault="qualified">
+
+   <xsd:element name="client">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="firstName" type="xsd:string" />
+            <xsd:element name="lastName" type="xsd:string" />
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+
+</xsd:schema>

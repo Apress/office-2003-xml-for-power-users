@@ -1,0 +1,285 @@
+<?xml version="1.0" standalone="yes"?>
+<Products>
+  <Company>IBuySpy Store</Company>
+  <Created>2004-01-01</Created>
+  <Product>
+    <ProductID>356</ProductID>
+    <ModelName>Edible Tape</ModelName>
+    <ModelNumber>STKY1</ModelNumber>
+    <UnitCost>3.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>357</ProductID>
+    <ModelName>Escape Vehicle (Air)</ModelName>
+    <ModelNumber>P38</ModelNumber>
+    <UnitCost>2.99</UnitCost>
+    <CategoryName>Travel</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>358</ProductID>
+    <ModelName>Extracting Tool</ModelName>
+    <ModelNumber>NOZ119</ModelNumber>
+    <UnitCost>199</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>359</ProductID>
+    <ModelName>Escape Vehicle (Water)</ModelName>
+    <ModelNumber>PT109</ModelNumber>
+    <UnitCost>1299.99</UnitCost>
+    <CategoryName>Travel</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>360</ProductID>
+    <ModelName>Communications Device</ModelName>
+    <ModelNumber>RED1</ModelNumber>
+    <UnitCost>49.99</UnitCost>
+    <CategoryName>Communications</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>362</ProductID>
+    <ModelName>Persuasive Pencil</ModelName>
+    <ModelNumber>LK4TLNT</ModelNumber>
+    <UnitCost>1.99</UnitCost>
+    <CategoryName>Communications</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>363</ProductID>
+    <ModelName>Multi-Purpose Rubber Band</ModelName>
+    <ModelNumber>NTMBS1</ModelNumber>
+    <UnitCost>1.99</UnitCost>
+    <CategoryName>Munitions</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>364</ProductID>
+    <ModelName>Universal Repair System</ModelName>
+    <ModelNumber>NE1RPR</ModelNumber>
+    <UnitCost>4.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>365</ProductID>
+    <ModelName>Effective Flashlight</ModelName>
+    <ModelNumber>BRTLGT1</ModelNumber>
+    <UnitCost>9.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>367</ProductID>
+    <ModelName>The Incredible Versatile Paperclip</ModelName>
+    <ModelNumber>INCPPRCLP</ModelNumber>
+    <UnitCost>1.49</UnitCost>
+    <CategoryName>Munitions</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>368</ProductID>
+    <ModelName>Toaster Boat</ModelName>
+    <ModelNumber>DNTRPR</ModelNumber>
+    <UnitCost>19999.98</UnitCost>
+    <CategoryName>Travel</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>370</ProductID>
+    <ModelName>Multi-Purpose Towelette</ModelName>
+    <ModelNumber>TGFDA</ModelNumber>
+    <UnitCost>12.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>371</ProductID>
+    <ModelName>Mighty Mighty Pen</ModelName>
+    <ModelNumber>WOWPEN</ModelNumber>
+    <UnitCost>129.99</UnitCost>
+    <CategoryName>Munitions</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>372</ProductID>
+    <ModelName>Perfect-Vision Glasses</ModelName>
+    <ModelNumber>ICNCU</ModelNumber>
+    <UnitCost>129.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>373</ProductID>
+    <ModelName>Pocket Protector Rocket Pack</ModelName>
+    <ModelNumber>LKARCKT</ModelNumber>
+    <UnitCost>1.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>374</ProductID>
+    <ModelName>Counterfeit Creation Wallet</ModelName>
+    <ModelNumber>DNTGCGHT</ModelNumber>
+    <UnitCost>999.99</UnitCost>
+    <CategoryName>Deception</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>375</ProductID>
+    <ModelName>Global Navigational System</ModelName>
+    <ModelNumber>WRLD00</ModelNumber>
+    <UnitCost>29.99</UnitCost>
+    <CategoryName>Travel</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>376</ProductID>
+    <ModelName>Cloaking Device</ModelName>
+    <ModelNumber>CITSME9</ModelNumber>
+    <UnitCost>9999.99</UnitCost>
+    <CategoryName>Deception</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>377</ProductID>
+    <ModelName>Indentity Confusion Device</ModelName>
+    <ModelNumber>BME007</ModelNumber>
+    <UnitCost>6.99</UnitCost>
+    <CategoryName>Deception</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>379</ProductID>
+    <ModelName>Ultra Violet Attack Defender</ModelName>
+    <ModelNumber>SHADE01</ModelNumber>
+    <UnitCost>89.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>378</ProductID>
+    <ModelName>Guard Dog Pacifier</ModelName>
+    <ModelNumber>SQUKY1</ModelNumber>
+    <UnitCost>14.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>382</ProductID>
+    <ModelName>Survival Bar</ModelName>
+    <ModelNumber>CHEW99</ModelNumber>
+    <UnitCost>6.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>402</ProductID>
+    <ModelName>Telescoping Comb</ModelName>
+    <ModelNumber>C00LCMB1</ModelNumber>
+    <UnitCost>399.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>384</ProductID>
+    <ModelName>Eavesdrop Detector</ModelName>
+    <ModelNumber>FF007</ModelNumber>
+    <UnitCost>99.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>385</ProductID>
+    <ModelName>Escape Cord</ModelName>
+    <ModelNumber>LNGWADN</ModelNumber>
+    <UnitCost>13.99</UnitCost>
+    <CategoryName>Travel</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>386</ProductID>
+    <ModelName>Cocktail Party Pal</ModelName>
+    <ModelNumber>1MOR4ME</ModelNumber>
+    <UnitCost>69.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>387</ProductID>
+    <ModelName>Remote Foliage Feeder</ModelName>
+    <ModelNumber>SQRTME1</ModelNumber>
+    <UnitCost>9.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>388</ProductID>
+    <ModelName>Contact Lenses</ModelName>
+    <ModelNumber>ICUCLRLY00</ModelNumber>
+    <UnitCost>59.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>389</ProductID>
+    <ModelName>Telekinesis Spoon</ModelName>
+    <ModelNumber>OPNURMIND</ModelNumber>
+    <UnitCost>2.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>390</ProductID>
+    <ModelName>Rubber Stamp Beacon</ModelName>
+    <ModelNumber>ULOST007</ModelNumber>
+    <UnitCost>129.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>391</ProductID>
+    <ModelName>Bullet Proof Facial Tissue</ModelName>
+    <ModelNumber>BSUR2DUC</ModelNumber>
+    <UnitCost>79.99</UnitCost>
+    <CategoryName>Protection</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>393</ProductID>
+    <ModelName>Speed Bandages</ModelName>
+    <ModelNumber>NOBOOBOO4U</ModelNumber>
+    <UnitCost>3.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>394</ProductID>
+    <ModelName>Correction Fluid</ModelName>
+    <ModelNumber>BHONST93</ModelNumber>
+    <UnitCost>1.99</UnitCost>
+    <CategoryName>Deception</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>396</ProductID>
+    <ModelName>Dilemma Resolution Device</ModelName>
+    <ModelNumber>BPRECISE00</ModelNumber>
+    <UnitCost>11.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>397</ProductID>
+    <ModelName>Nonexplosive Cigar</ModelName>
+    <ModelNumber>LSRPTR1</ModelNumber>
+    <UnitCost>29.99</UnitCost>
+    <CategoryName>Communications</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>399</ProductID>
+    <ModelName>Document Transportation System</ModelName>
+    <ModelNumber>QLT2112</ModelNumber>
+    <UnitCost>299.99</UnitCost>
+    <CategoryName>General</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>400</ProductID>
+    <ModelName>Hologram Cufflinks</ModelName>
+    <ModelNumber>THNKDKE1</ModelNumber>
+    <UnitCost>799.99</UnitCost>
+    <CategoryName>Deception</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>401</ProductID>
+    <ModelName>Fake Moustache Translator</ModelName>
+    <ModelNumber>TCKLR1</ModelNumber>
+    <UnitCost>599.99</UnitCost>
+    <CategoryName>Communications</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>404</ProductID>
+    <ModelName>Interpreter Earrings</ModelName>
+    <ModelNumber>JWLTRANS6</ModelNumber>
+    <UnitCost>459.99</UnitCost>
+    <CategoryName>Communications</CategoryName>
+  </Product>
+  <Product>
+    <ProductID>406</ProductID>
+    <ModelName>Multi-Purpose Watch</ModelName>
+    <ModelNumber>GRTWTCH9</ModelNumber>
+    <UnitCost>399.99</UnitCost>
+    <CategoryName>Tools</CategoryName>
+  </Product>
+</Products>

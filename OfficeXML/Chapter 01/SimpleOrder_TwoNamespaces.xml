@@ -1,0 +1,9 @@
+<order xmlns="http://mycompany/OrderML">
+    <client xmlns="http://mycompany/ClientML">
+        <firstName>...</firstName>
+        <lastName>...</lastName>
+    </client>
+
+    <orderItem>...</orderItem>
+    <orderItem>...</orderItem>
+</order>

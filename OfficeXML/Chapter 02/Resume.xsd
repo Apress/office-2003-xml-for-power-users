@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+   <xsd:complexType name="education" mixed="true">
+      <xsd:choice minOccurs="0" maxOccurs="unbounded">
+         <xsd:element name="school" type="xsd:string"/>      
+      </xsd:choice>
+   </xsd:complexType>
+
+   <xsd:complexType name="workHistory" mixed="true">
+      <xsd:choice minOccurs="0" maxOccurs="unbounded">
+         <xsd:element name="company" type="xsd:string"/>      
+      </xsd:choice>
+   </xsd:complexType>
+
+   <xsd:complexType name="resume">
+      <xsd:sequence>
+         <xsd:element name="firstName" type="xsd:string"/>
+         <xsd:element name="lastName" type="xsd:string"/>
+         <xsd:element name="body">
+            <xsd:complexType>
+               <xsd:sequence>
+                  <xsd:element name="objective" type="xsd:string"/>
+                  <xsd:element name="education" type="education"/>
+                  <xsd:element name="workHistory" type="workHistory"/>
+               </xsd:sequence>
+            </xsd:complexType>
+         </xsd:element>
+      </xsd:sequence>
+   </xsd:complexType>
+
+   <xsd:element name="resume" type="resume"/>
+</xsd:schema>

@@ -1,0 +1,4 @@
+<order xmlns="http://mycompany/OrderML">
+    <orderItem>...</orderItem>
+    <orderItem>...</orderItem>
+</order>

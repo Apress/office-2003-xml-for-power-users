@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+   <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:element name="Root">
+         <xsd:complexType mixed="false">
+            <xsd:sequence minOccurs="0" maxOccurs="1">
+               <xsd:element minOccurs="1" maxOccurs="1" name="Meta">
+                  <xsd:complexType mixed="false">
+                     <xsd:all>
+                        <xsd:element minOccurs="1" maxOccurs="1" type="xsd:string" name="Name"/>
+                        <xsd:element minOccurs="1" maxOccurs="1" type="xsd:string" name="Email"/>
+                        <xsd:element minOccurs="1" maxOccurs="1" type="xsd:string" name="IDNumber"/>
+                        <xsd:element minOccurs="1" maxOccurs="1" type="xsd:string" name="Purpose"/>
+                     </xsd:all>
+                  </xsd:complexType>
+               </xsd:element>
+               <xsd:element minOccurs="0" maxOccurs="unbounded" name="ExpenseItem">
+                  <xsd:complexType mixed="false">
+ 		     <xsd:sequence minOccurs="0" maxOccurs="1">
+			<xsd:element type="xsd:date" name="Date"/>
+			<xsd:element type="xsd:string" name="Description"/>
+		        <xsd:element type="xsd:integer" name="Miles"/>
+		        <xsd:element type="xsd:decimal" name="Rate"/>
+		        <xsd:element type="xsd:decimal" name="AirFare"/>
+		        <xsd:element type="xsd:decimal" name="Other"/>
+			<xsd:element type="xsd:decimal" name="Meals"/>
+		        <xsd:element type="xsd:decimal" name="Conference"/>
+		        <xsd:element type="xsd:decimal" name="Misc"/>
+		        <xsd:element type="xsd:string" name="MiscCode"/>
+		        <xsd:element type="xsd:decimal" name="Total"/>
+		     </xsd:sequence>
+                  </xsd:complexType>
+               </xsd:element>
+            </xsd:sequence>
+         </xsd:complexType>
+      </xsd:element>
+   </xsd:schema>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<resume>
+    <firstName>Sally</firstName>
+    <lastName>Markov</lastName>
+    <body>
+        <objective>To become an XML guru.</objective>
+        <education>Study at numerous education instutions, including the
+          <school>Julliard Academy</school> and <school>M.I.T.</school>.
+        </education>
+        <workHistory>Worked at a number of companies. At
+          <company>Microsoft</company> I learned that XML is an important
+          technology in the web enabled world. At <company>IBM</company> I
+          developed my own XML documents to store computer inventory information.
+          This allowed us to automate production.
+        </workHistory>
+    </body>
+</resume>
